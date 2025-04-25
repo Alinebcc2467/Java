@@ -6,7 +6,7 @@ public class Main {
         int[] nums = new int[5];
         System.out.print("O tamanho do vetor é 5. Quantos números você deseja adicionar?: ");
         int quantidade = s.nextInt();
-        while (quantidade <= 0 || quantidade >= 5) {
+        while (quantidade < 0 || quantidade > 5) {
             System.out.print("O tamanho é inválido. Digite um número de 1 a 4 para adicionar: ");
             quantidade = s.nextInt();
         }
