@@ -37,8 +37,8 @@ public class Main {
         System.out.println("Foi comprado "+morango+" kg de morango = R$"+df.format(valorMorango)+".");
         System.out.println("Foi comprado "+maca+" kg de maca = R$"+df.format(valorMaca)+".");
 
-        if(maca+morango>8 || valorMaca+valorMorango>25){
-            double desconto=((valorMaca+valorMorango)/100)*10;
+        if(maca+morango>8 || total>25){
+            double desconto=((total)/100)*10;
             total= (float) (total-desconto);
             System.out.println("Teve desconto de R$"+df.format(desconto)+".");
         }
