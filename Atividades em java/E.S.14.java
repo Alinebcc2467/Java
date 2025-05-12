@@ -16,6 +16,7 @@ public class Main {
             latas++;
             int preco = (int) (latas * 80);
             System.out.println("Serão necessária " + latas + " latas de tinta, Você irá gastar: " + preco + "R$.");
+            s.close();
         }
     }
 }
