@@ -9,5 +9,6 @@ public class Main {
         float valor = s.nextFloat();
         float f = ((valor * 9) + 160)/5;
         System.out.println("A temperatura " + valor + "°C em Fahrenheit é " + f + "°F");
+        s.close();
     }
 }
