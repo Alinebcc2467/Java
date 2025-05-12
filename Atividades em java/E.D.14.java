@@ -44,5 +44,6 @@ public class Main {
         }
 
         System.out.println("O total a pagar = R$"+df.format(total)+".");
+        s.close();
     }
 }
