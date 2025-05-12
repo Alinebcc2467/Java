@@ -22,6 +22,6 @@ public class Main {
         else{
             System.out.println("É um Triângulo Escaleno");
         }
-
+        s.close();
     }
 }
