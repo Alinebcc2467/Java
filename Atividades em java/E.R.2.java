@@ -12,5 +12,6 @@ public class Main {
             soma=soma+i;
         }
         System.out.print("O valor da soma é: "+soma);
+        s.close();
     }
 }
