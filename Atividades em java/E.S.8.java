@@ -12,5 +12,6 @@ public class Main{
         int distancia=tempo*velocidade;
         double litros= distancia/12;
         System.out.println("A duração da viagem é de "+tempo+" horas, a velocidade média é de "+velocidade+"km/h, a distância percorrida foi de "+distancia+"Km, o combustível total gasto foi: "+litros+" litros.");
+        s.close();
     }
 }
