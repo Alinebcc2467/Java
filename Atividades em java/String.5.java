@@ -1,4 +1,5 @@
-//5 - Escreva um programa que dado um valor numérico digitado pelo usuário (armazenado em uma variável inteira), imprima cada um dos seus dígitos por extenso. Exemplo:
+//5 - Escreva um programa que dado um valor numérico digitado pelo usuário (armazenado em uma variável inteira), imprima cada um dos 
+//seus dígitos por extenso. Exemplo:
 //
 // Entre o número: 4571
 // Resultado: quatro, cinco, sete, um
