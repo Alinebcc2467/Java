@@ -21,10 +21,13 @@ public class Main{
             double celsius = s.nextDouble();
             System.out.print("Temperatura em Fahrenheit: "+ Conversor.CpF(celsius));
         }
-        else{
+        else if(escolha.equals("F")){
             System.out.print("Digite a temperatura em Fahrenheit: ");
             double fahrenheit = s.nextDouble();
             System.out.print("Temperatura em Celsius: "+ Conversor.FpC(fahrenheit));
+        }
+        else{
+            System.out.println("O caractere digitado não corresponde as alternativas mostradas");
         }
         s.close();
     }
