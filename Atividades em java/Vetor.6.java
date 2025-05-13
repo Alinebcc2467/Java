@@ -1,4 +1,5 @@
-//6 - Escrever um programa que lê um vetor com 20 números inteiros e o escreve na tela. Troque, a seguir, o 1º elemento com o último, o 2º com o penúltimo etc. até o 10º com o 11º e escreva na tela o vetor N assim modificado.
+//6 - Escrever um programa que lê um vetor com 20 números inteiros e o escreve na tela. Troque, a seguir, o 1º elemento com o último, 
+//o 2º com o penúltimo etc. até o 10º com o 11º e escreva na tela o vetor N assim modificado.
 
 import java.util.Scanner;
 
