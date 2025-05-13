@@ -1,4 +1,5 @@
-//7 - Faça um programa que leia uma temperatura em graus Celsius e apresente-a convertida em graus Fahrenheit. A fórmula de conversão é: ℉ = (9 × ℃ + 160) ÷ 5, na qual ℉ é a temperatura em Fahrenheit e ℃ é a temperatura em Celsius.
+//7 - Faça um programa que leia uma temperatura em graus Celsius e apresente-a convertida em graus Fahrenheit. A fórmula de conversão 
+//é: ℉ = (9 × ℃ + 160) ÷ 5, na qual ℉ é a temperatura em Fahrenheit e ℃ é a temperatura em Celsius.
 
 import java.util.Scanner;
 
