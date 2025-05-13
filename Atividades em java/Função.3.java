@@ -1,4 +1,5 @@
-//3 - Faça um programa com duas funções, uma que recebe uma temperatura em Fahrenheit e retorna em Celcius e outra que faz o inverso. Lembrando que as fórmulas são ℃ = (℉ - 32) ÷ 1,8 e ℉ = ℃ × 1,8 + 32.
+//3 - Faça um programa com duas funções, uma que recebe uma temperatura em Fahrenheit e retorna em Celcius e outra que faz o inverso.
+//Lembrando que as fórmulas são ℃ = (℉ - 32) ÷ 1,8 e ℉ = ℃ × 1,8 + 32.
 
 import java.util.Scanner;
 
