@@ -1,4 +1,6 @@
-//8 - Ler 100 números de matriculas de alunos e armazenar em um vetor. Esses números são distintos, ou seja, não existem números de matriculas iguais. Caso o usuário informa um número de matrículo que já existe, o programa deverá emitir um alerta.
+//8 - Ler 100 números de matriculas de alunos e armazenar em um vetor. Esses números são distintos, ou seja, não existem números de matriculas iguais. 
+//Caso o usuário informa um número de matrículo que já existe, o programa deverá emitir um alerta.
+
 import java.util.Scanner;
 
 public class Main {
